@@ -37,8 +37,8 @@ $mark2 = 77;
 $mark3 = 92;
 
 // Total & Average
-$total = $mark1 + $mark2 + $mark3;
-$average = $total / 3;
+$total = $mark1 + $mark2 + $mark3;//total-234
+$average = $total / 3;//average-78
 
 // Grade logic
 if ($average >= 90) {
