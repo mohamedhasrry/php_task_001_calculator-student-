@@ -2,8 +2,8 @@
 
 // Part 1: Simple Calculator
 
-$a = 25;
-$b = 5;
+$a = 33;
+$b = 8;
 
 // Functions
 function add($a, $b) {
@@ -32,9 +32,9 @@ echo "Division: " . divide($a, $b) . "<br><br>";
 
 // Part 2: Student Grade Calculator
 
-$mark1 = 78;
-$mark2 = 85;
-$mark3 = 90;
+$mark1 = 65;
+$mark2 = 77;
+$mark3 = 92;
 
 // Total & Average
 $total = $mark1 + $mark2 + $mark3;
